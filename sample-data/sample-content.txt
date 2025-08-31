@@ -1,0 +1,17 @@
+Sample Social Media Content for Testing
+
+This is a sample document that demonstrates the text extraction capabilities of our Social Media Content Analyzer. It contains various elements that the system can analyze and provide engagement suggestions for.
+
+Key Features:
+- Multiple paragraphs with different content types
+- Various sentence lengths to test readability analysis
+- Hashtag examples for testing hashtag counting
+- Call-to-action phrases for CTA detection
+
+This content is designed to be around 150-200 words, which is optimal for most social media platforms. It includes relevant hashtags like #SocialMedia #ContentCreation #DigitalMarketing to demonstrate proper hashtag usage.
+
+The text maintains good readability with varied sentence structures and clear paragraph breaks. It's formatted in a way that preserves structure when extracted from PDFs or images.
+
+Call-to-action examples include phrases like "share this content" and "comment below" to test the CTA detection algorithm. The system should identify these and provide appropriate suggestions.
+
+This sample demonstrates the balance between informative content and engaging presentation that works well across different social media platforms.

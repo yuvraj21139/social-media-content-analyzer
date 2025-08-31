@@ -1,0 +1,23 @@
+Sample Image Content for OCR Testing
+
+This sample represents text that might be found in an image or scanned document. The OCR system should be able to extract this content accurately and provide meaningful analysis.
+
+Content Analysis:
+- Short, punchy sentences for social media
+- Clear call-to-action: "Follow us for more tips!"
+- Strategic hashtag placement: #SocialTips #Growth #Engagement
+- Optimal length for Twitter/X (under 280 characters)
+
+The text is designed to test various OCR capabilities:
+- Mixed case letters and numbers
+- Punctuation marks and special characters
+- Line breaks and spacing
+- Different font weights and styles
+
+This content should trigger several engagement suggestions:
+- Good hashtag usage (3 hashtags)
+- Clear call-to-action present
+- Appropriate length for platform
+- Good readability score
+
+The OCR system should preserve the formatting and structure while providing accurate text extraction for analysis.
